@@ -2448,5 +2448,15 @@
     "plan": "",
     "reviewed": "2020.09.28",
     "note": "Let's Encrypt available on all hosting, VPS, and dedicated server plans."
-  }
+  },
+  {
+    "name": "reg.chula.ac.th",
+    "link": "https://www.reg.chula.ac.th",
+    "category": "full",
+    "tutorial": "",
+    "announcement": "",
+    "plan": "",
+    "reviewed": "2020.11.18",
+    "note": "All webhosting plans include Let's Encrypt. The website is in Dutch."
+   }
 ]
